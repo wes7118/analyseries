@@ -1,0 +1,3 @@
+Originally,AnalySeries was designed (by Didier Paillard) specially to facilitate the study of paleoclimatic records using the approach and some of the methods defined by the SPECMAP group [Martinson et al. , 1987; Imbrie et al. , 1984 , 1989 ](.md). It addressed two main problems: transforming "data versus depth" records into "data versus age" records; and spectral analysis of the paleoclimatic records for studying their relationships with insolation, ice volume, and other climatic parameters in the frequency domain.
+
+**This project is a fully redesigned Java version**.
